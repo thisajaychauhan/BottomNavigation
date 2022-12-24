@@ -12,7 +12,7 @@ import com.example.bottomnavigation.databinding.ActivityMainBinding
 class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
-    /*This line is added by Ajay Chauhan */
+    /*This line is added by Ajay Chauhan - Feauture completed */
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
